@@ -11,4 +11,8 @@ opencv-python
 loguru
 trimesh
 face_alignment
+
+# MICA
 insightface
+onnxruntime
+yacs
