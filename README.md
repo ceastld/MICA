@@ -79,3 +79,6 @@ conda create --name mica -y python=3.10
 pip install torch==2.0.1 torchvision==0.15.2
 pip install -r requirements.txt
 ```
+
+有个报错，可以直接进入环境文件里面修改，把报错文件中这一行注释掉就可以了
+# from numpy import bool, int, float, complex, object, unicode, str, nan, inf
