@@ -70,3 +70,12 @@ If you use this project in your research please cite MICA:
   year = {2022}
 }
 ```
+
+
+## Environment
+
+```
+conda create --name mica -y python=3.10
+pip install torch==2.0.1 torchvision==0.15.2
+pip install -r requirements.txt
+```

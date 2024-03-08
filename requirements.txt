@@ -1,0 +1,14 @@
+numpy
+tqdm
+plyfile
+scipy
+chumpy
+
+scikit-image
+opencv-python
+
+# mica tracking
+loguru
+trimesh
+face_alignment
+insightface
