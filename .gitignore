@@ -44,10 +44,6 @@ Thumbs.db
 __pycache__
 
 ## deca data
-data/FLAME2020/generic_model.pkl
-data/FLAME2020/female_model.pkl
-data/FLAME2020/male_model.pkl
-data/FLAME2020/FLAME_albedo_from_BFM.npz
 results
 output
 TestSamples
