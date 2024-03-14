@@ -14,5 +14,5 @@ face_alignment
 
 # MICA
 insightface
-onnxruntime
+onnxruntime-gpu
 yacs
